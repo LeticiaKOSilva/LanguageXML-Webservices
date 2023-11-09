@@ -12,7 +12,10 @@
 ## Atividade 2
 - Na atividade 2 o objetivo é utilizar a implementação do site feita em outra atividade só que desta vez ao invés de manipular os dados através de um json, seria com um xml.
   -Link do repositório: https://github.com/LeticiaKOSilva/ClimaNet-WebServices
+  
 - O site vai basicamente fazer :
+  - Link do site utilizando xml : [ClimaNetXML] (https://leticiakosilva.github.io/LanguageXML-Webservices/)
+    
   - O site vai extrair da API do site OpenWeatherMap as seguintes informações:
     
     - A temperatura atual, máxima e mínima para a cidade, em graus Celsius;
