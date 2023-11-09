@@ -51,3 +51,11 @@
     - Manipulação dos dados no arquivo xml;
     - Manipulação e inserção dos dados dentro do site;
     - Método para converter graus Celsius para Kelvin.
+
+## ->Funcionamento
+
+### Página antes da requisição:
+<img src="https://github.com/LeticiaKOSilva/LanguageXML-Webservices/blob/main/Imagens/climaNet.png" width = "900px">
+
+### Página depois da requisição:
+<img src="https://github.com/LeticiaKOSilva/LanguageXML-Webservices/blob/main/Imagens/climaNetResult.png" width = "900px">
