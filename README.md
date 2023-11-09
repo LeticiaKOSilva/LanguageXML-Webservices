@@ -14,7 +14,7 @@
   -Link do repositório: https://github.com/LeticiaKOSilva/ClimaNet-WebServices
   
 - O site vai basicamente fazer :
-  -Link do site utilizando xml : [ClimaNetXML] (https://leticiakosilva.github.io/LanguageXML-Webservices/)
+  - Link do site utilizando xml: (https://leticiakosilva.github.io/LanguageXML-Webservices/).
     
   - O site vai extrair da API do site OpenWeatherMap as seguintes informações:
     
